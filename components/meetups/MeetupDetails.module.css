@@ -1,0 +1,9 @@
+.meetup-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.meetup-details img {
+  width: 100%;
+}
